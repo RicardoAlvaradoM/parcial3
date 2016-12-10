@@ -1,0 +1,80 @@
+body {
+    background-image: url(Images/deg2.jpg);
+    background-size: 220vh 50vw;
+    margin-top: 30px;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+form {
+    margin: auto;
+}
+
+.table {
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    background: white;
+    color: black;
+    border: 2px solid black;
+}
+
+th {
+    background: firebrick;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+td {
+    text-align: center;
+    border: 2px solid black;
+    padding: 0.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.boton {
+    text-align: center;
+    margin-top: 5%;
+    color: black;
+    border: 3px solid #000;
+    font-size: 25px;
+    font-style: initial;
+}
+
+.cabecera {
+    background-image: url(images/deg1.jpg);
+    height: 50px;
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+    margin: 0px 0px 0px 0px
+}
+
+.header {
+    background: orangered
+}
+
+.text {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-style: italic;
+}
+
+.h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+    font-style: italic;
+    font-color: blue;
+}
+
+.p {
+    text-align: justify;
+    font-family: Courier New, Courier, monospace;
+    font-size: 24px;
+    font-style: oblique;
+}

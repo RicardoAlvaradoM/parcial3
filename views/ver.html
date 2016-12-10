@@ -1,0 +1,24 @@
+$def with (result)
+
+<form name="main" method="post" class="form">
+    $for row in result:
+    <table class="table">
+        <th>Datos de la comunidad</th>
+        <th>Informacion</th>
+        <tr>
+            <td>Nombre de la comunidad</td>
+            <td>$row.Nombre</td>
+        </tr>
+        <tr>
+            <td>Numero de habitantes</td>
+            <td>$row.No_Hab</td>
+        </tr>
+        <tr>
+            <td>Longitud</td>
+            <td>$row.Longitud</td>
+        </tr>
+        <tr>
+            <td>Latitud</td>
+            <td>$row.Latitud</td>
+        </tr>
+    </table>

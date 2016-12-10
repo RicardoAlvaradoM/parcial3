@@ -1,0 +1,12 @@
+$def with(data)
+<table class="table">
+    <th>Fecha y Hora</th>
+    <th>Descripcion</th>
+    <th>Posicion</th>
+    $for row in data:
+    <tr>
+        <td>$row['LocalTimestamp']</td>
+        <td>$row['Description']</td>
+        <td>$row['Position']</td>
+    </tr>
+</table>

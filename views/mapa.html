@@ -1,0 +1,25 @@
+$def with(data)
+<div>
+    <b>
+        <a href="/leer">Regresar</a>
+    </b>
+    <br>
+    <h1>Mapa de ubicacion de equipo de recoleccion de basura</h1>
+    <h2>Estado de Veracruz y Puebla</h2>
+    <h3>Datos obtenidos de datos.gob.mx</h3>
+    </br>
+    <iframe width="100%" height="520" frameborder="0" src="https://ricardo3496.carto.com/viz/9a318a9a-bd00-11e6-bc57-0e05a8b3e3d7/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>
+<div>
+    <table class="table">
+        <th>Fecha y Hora</th>
+        <th>Descripcion</th>
+        <th>Posicion</th>
+        $for row in data:
+        <tr>
+            <td>$row['LocalTimestamp']</td>
+            <td>$row['Description']</td>
+            <td>$row['Position']</td>
+        </tr>
+    </table>
+</div>

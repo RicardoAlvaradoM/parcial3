@@ -1,0 +1,22 @@
+﻿$def with (form, results)
+<h2 align="center">Buscar vehiculos mediante Descripcion y Id</h2>
+
+<form name="main" method="post">
+    $if not form.valid: <p class="error">Informacion erronea</p>
+    $:form.render()
+    <input type="submit"/></form>
+
+    <br>
+
+    $if results:
+        <table class="table">
+            <th>Descripcion</th>
+            <th>Fecha y hora de localizacion</th>
+            <th>Direccion</th>
+            $for row in results:
+                <tr>
+                    <td>$row[0]</td>
+                    <td>$row[1]</td>
+                    <td>$row[2]</td>
+                </tr>
+        </table>

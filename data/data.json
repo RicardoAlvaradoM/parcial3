@@ -1,0 +1,507 @@
+{
+    "Page": 0,
+    "PageSize": 0,
+    "TotalResults": 50,
+    "Items": [{
+            "LocalTimestamp": "2016-12-05T17:32:30-05:00",
+            "Id": "ae8442e2-82fe-4530-9c79-30ec39fcd15c",
+            "Description": "ECO-021",
+            "UnitId": "1211224",
+            "Position": [-96.95405,
+                19.55173
+            ],
+            "Location": "4 Privada 1a. de Flores Villa, Luz del Barrio, Xalapa Enríquez, Xalapa, 91020, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:35:59-05:00",
+            "Id": "80a8dfda-75f6-466b-96cf-ef9ea2640831",
+            "Description": "ECO-024",
+            "UnitId": "1211176",
+            "Position": [-96.92756,
+                19.51427
+            ],
+            "Location": "Diego Rivera, Buena Vista I, Xalapa Enríquez, Xalapa, 91080, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:30:36-05:00",
+            "Id": "205c33e8-db96-4ae7-a48b-df4b8483c56d",
+            "Description": "ECO-047",
+            "UnitId": "1211421",
+            "Position": [-96.89511,
+                19.54979
+            ],
+            "Location": "7-8 Del Canon del Colorado, Casa Blanca, Xalapa Enríquez, Xalapa, 91180, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:30:35-05:00",
+            "Id": "66b4a8b5-5ae6-40a1-b1da-0c61643ad5b1",
+            "Description": "ECO-048",
+            "UnitId": "1211432",
+            "Position": [-96.91387,
+                19.56643
+            ],
+            "Location": "57 Avenida Ramón López Velarde, Ruben Pabello Acosta, Xalapa Enríquez, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:34:55-05:00",
+            "Id": "71727e8f-af2b-4ad9-ab3e-183ffe8470d5",
+            "Description": "ECO-051",
+            "UnitId": "1211450",
+            "Position": [-96.90046,
+                19.56943
+            ],
+            "Location": "1.0Km SW of Relleno Sanitario - Xalapa - 15 Camino Antiguo a Naolinco, Porton Colorado, Xalapa Enríquez, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:02-05:00",
+            "Id": "8ffd480a-27e9-42dd-9b04-f13c3c6bf102",
+            "Description": "ECO-052",
+            "UnitId": "1211463",
+            "Position": [-96.90996,
+                19.54496
+            ],
+            "Location": "391 Calle Lázaro Cárdenas, Miguel Hidalgo y Costilla, Xalapa Enríquez, Xalapa, 91140, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:46-05:00",
+            "Id": "8f21283d-d95f-4659-a649-eb29635934bb",
+            "Description": "ECO-053",
+            "UnitId": "1211166",
+            "Position": [-96.88181,
+                19.50064
+            ],
+            "Location": "Calle Ecuestre, Xalapa, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:35:01-05:00",
+            "Id": "0170adbe-94e6-4bda-9edd-99c6c25b229b",
+            "Description": "ECO-056",
+            "UnitId": "1211413",
+            "Position": [-96.92327,
+                19.54838
+            ],
+            "Location": "811 Tepic, Progreso Macuiltepetl, Xalapa Enríquez, Xalapa, 91130, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:23:33-05:00",
+            "Id": "71ce74ca-89ff-414b-b656-a07522a0fa38",
+            "Description": "ECO-057",
+            "UnitId": "1211230",
+            "Position": [-96.90547,
+                19.51219
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:22:24-05:00",
+            "Id": "c6abf46c-eaef-4b6c-972c-8f2b1db1450b",
+            "Description": "ECO-058",
+            "UnitId": "1211167",
+            "Position": [-96.9389,
+                19.5617
+            ],
+            "Location": "28 Avenida Ébano, Framboyanes, Xalapa Enríquez, Xalapa, 91018, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:31:58-05:00",
+            "Id": "bee1a8b3-c4fc-4ca1-a1c2-b11f3a8f876e",
+            "Description": "ECO-168",
+            "UnitId": "1211358",
+            "Position": [-96.91051,
+                19.54461
+            ],
+            "Location": "74 Calle 16 de Septiembre, Miguel Hidalgo y Costilla, Xalapa Enríquez, Xalapa, 91140, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:22:49-05:00",
+            "Id": "22df0e6d-ae7a-4804-aaff-3ffefa3e515c",
+            "Description": "ECO-169",
+            "UnitId": "1211344",
+            "Position": [-96.93032,
+                19.5716
+            ],
+            "Location": "28 Ruiz Cortines, 21 de Marzo, Xalapa Enríquez, Xalapa, 91010, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T16:56:11-05:00",
+            "Id": "931506d1-ed74-44b7-bfca-eaf34eaadb39",
+            "Description": "ECO-170",
+            "UnitId": "1211343",
+            "Position": [-96.90545,
+                19.51224
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:35:30-05:00",
+            "Id": "78c5f655-f2d2-41e1-9c87-6782e87443e4",
+            "Description": "ECO-171",
+            "UnitId": "1211168",
+            "Position": [-96.93139,
+                19.54882
+            ],
+            "Location": "16 Cecilio Flores, Obrero Campesina, Xalapa Enríquez, Xalapa, 91020, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T16:13:21-05:00",
+            "Id": "80919836-c963-4e89-b5b2-94aa516df330",
+            "Description": "ECO-172",
+            "UnitId": "1211348",
+            "Position": [-96.90549,
+                19.51223
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T16:44:45-05:00",
+            "Id": "3f8c835e-952a-4065-83af-425175fc93a7",
+            "Description": "ECO-174",
+            "UnitId": "1211366",
+            "Position": [-96.90496,
+                19.5125
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:35:14-05:00",
+            "Id": "46510ecb-351d-496e-81d8-40cfd81c608b",
+            "Description": "ECO-175",
+            "UnitId": "1190323",
+            "Position": [-96.94268,
+                19.53314
+            ],
+            "Location": "58 C Osa Mayor, Arroyo Blanco, Xalapa Enríquez, Xalapa, 91050, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T16:46:11-05:00",
+            "Id": "e57ca19a-e469-41ed-8c3f-0d62a16e1479",
+            "Description": "ECO-176",
+            "UnitId": "1194581",
+            "Position": [-96.90474,
+                19.51284
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:14:31-05:00",
+            "Id": "2030cbf4-b329-4426-945b-c61bbd3894ad",
+            "Description": "ECO-177",
+            "UnitId": "1211370",
+            "Position": [-96.90144,
+                19.57214
+            ],
+            "Location": "0.9Km W of Relleno Sanitario - Xalapa - 409 Camino Antiguo a Naolinco, 2 de Julio, Xalapa Enríquez, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-08-17T14:26:38-05:00",
+            "Id": "42a0f7fc-6930-4be9-8b1c-de54441bbc30",
+            "Description": "ECO-180",
+            "UnitId": "1211351",
+            "Position": [-96.90512,
+                19.51225
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:34:47-05:00",
+            "Id": "ffb87fb5-2765-467f-9ab2-53e4598e0f59",
+            "Description": "ECO-181",
+            "UnitId": "1211357",
+            "Position": [-96.86246,
+                19.51152
+            ],
+            "Location": "3 Giralda, El Olmo, Xalapa Enríquez Centro, Xalapa, 91194, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:02:52-05:00",
+            "Id": "e0eb5e63-9870-4448-b679-764154efdf34",
+            "Description": "ECO-185",
+            "UnitId": "1211218",
+            "Position": [-96.93475,
+                19.53306
+            ],
+            "Location": "6b Angel Garrido, Represa del Carmen, Xalapa Enríquez, Xalapa, 91050, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:20-05:00",
+            "Id": "9d16caca-ec4c-4458-bfc4-1d3061b8b950",
+            "Description": "ECO-186",
+            "UnitId": "1211178",
+            "Position": [-96.90123,
+                19.57322
+            ],
+            "Location": "0.8Km W of Relleno Sanitario - Xalapa - 63 Carolino Anaya, Heberto Castillo Martinez, Xalapa Enríquez Centro, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:34:02-05:00",
+            "Id": "77870275-5193-414f-b7e8-24d12d2a47ba",
+            "Description": "ECO-187",
+            "UnitId": "1211209",
+            "Position": [-96.90535,
+                19.51207
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:01-05:00",
+            "Id": "278b3629-0937-42c0-b72a-b2879ef52cbd",
+            "Description": "ECO-188",
+            "UnitId": "1211349",
+            "Position": [-96.92321,
+                19.57266
+            ],
+            "Location": "28 Calle Calzada Lucas Martin, Revolucion, Xalapa Enríquez, Xalapa, 91100, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:22:35-05:00",
+            "Id": "cfba5102-cd9f-4746-97c3-fa550bc7f1b1",
+            "Description": "ECO-189",
+            "UnitId": "1194576",
+            "Position": [-96.90497,
+                19.51213
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:28:27-05:00",
+            "Id": "91db483c-3d66-4a03-9975-aebaf3be891d",
+            "Description": "ECO-191",
+            "UnitId": "1211377",
+            "Position": [-96.9038,
+                19.5434
+            ],
+            "Location": "180A Palmeras, Arboledas de Xalapa, Xalapa Enríquez Centro, Veracruz, 91150, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:47-05:00",
+            "Id": "55d7eb53-359b-4c88-b7d2-777d4fdc79d6",
+            "Description": "ECO-194",
+            "UnitId": "1211374",
+            "Position": [-96.89619,
+                19.55608
+            ],
+            "Location": "C Manuel Carpio, Jardines del Castillo, Xalapa Enríquez, Xalapa, 91157, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:01-05:00",
+            "Id": "f4269396-37ae-4988-b8d4-90c562a5416c",
+            "Description": "ECO-195",
+            "UnitId": "1211383",
+            "Position": [-96.90054,
+                19.53961
+            ],
+            "Location": "2 Central, 10 de Mayo, Xalapa Enríquez, Xalapa, 91180, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:30:06-05:00",
+            "Id": "b9a7c404-2ec8-4077-9dea-2994c2917b1c",
+            "Description": "ECO-329",
+            "UnitId": "1211381",
+            "Position": [-96.90505,
+                19.51206
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:34:33-05:00",
+            "Id": "92d3bbdb-d2ce-4f57-9662-dfcf118faf92",
+            "Description": "ECO-330",
+            "UnitId": "1211368",
+            "Position": [-96.8941,
+                19.52926
+            ],
+            "Location": "98A Paseo de las Araucarias, Sahop, Xalapa Enríquez, Xalapa, 91190, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T16:57:15-05:00",
+            "Id": "e00f2158-5d2e-4516-a911-ccfd5969e458",
+            "Description": "ECO-342",
+            "UnitId": "1211454",
+            "Position": [-96.90497,
+                19.51224
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:34:25-05:00",
+            "Id": "623c5f4e-ccd1-4746-a216-0f86b0fc6bd7",
+            "Description": "ECO-346",
+            "UnitId": "1211187",
+            "Position": [-96.92688,
+                19.56188
+            ],
+            "Location": "10 Calle Lázaro Cárdenas, Rafael Lucio, Rafael Lucio, Xalapa, 91110, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:33:49-05:00",
+            "Id": "559e0b2a-b6cd-4485-9b06-03bf9a8da4f7",
+            "Description": "ECO-347",
+            "UnitId": "1211206",
+            "Position": [-96.90565,
+                19.53388
+            ],
+            "Location": "44 Calle Coyoacán, Encinal, Xalapa Enríquez, Xalapa, 91180, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-04T05:05:16-05:00",
+            "Id": "bd16b272-a959-4dd5-ad85-f48ab79cbcf3",
+            "Description": "ECO-348",
+            "UnitId": "1211211",
+            "Position": [-96.91923,
+                19.5601
+            ],
+            "Location": "8 Rafael Valenzuela, Rafael Lucio, Xalapa Enríquez, Xalapa, 91110, México"
+        },
+        {
+            "LocalTimestamp": "2016-11-12T14:42:43-05:00",
+            "Id": "8d78e751-8cf6-4d19-a9bf-fb03c477a6cc",
+            "Description": "ECO-355 / PERDIDA TOTAL",
+            "UnitId": "1211408",
+            "Position": [-96.95929,
+                19.5908
+            ],
+            "Location": "218 Xalapa - Puebla, Martinica, Jilotepec, Rafael Lucio, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:34:22-05:00",
+            "Id": "3d87e536-2703-4101-b088-171aca55c861",
+            "Description": "ECO-356",
+            "UnitId": "1211459",
+            "Position": [-96.90314,
+                19.56274
+            ],
+            "Location": "16 Camino Antiguo a Naolinco, Nacional, Xalapa Enríquez, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-06-23T14:27:50-05:00",
+            "Id": "e87a6b66-e95f-4f75-9edd-54de366d3a4f",
+            "Description": "ECO-357",
+            "UnitId": "1211468",
+            "Position": [-96.90561,
+                19.551
+            ],
+            "Location": "115-142 Calle Gustavo Díaz Ordaz, Predio de la Virgen, Xalapa Enríquez Centro, Xalapa, 91150, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:33:28-05:00",
+            "Id": "f8d8dbdd-38ad-4b3d-99c6-be09f56e0ccf",
+            "Description": "ECO-358",
+            "UnitId": "1211467",
+            "Position": [-96.94606,
+                19.55931
+            ],
+            "Location": "1 Francisco Villa, Ruben R. Jaramillo, Xalapa Enríquez, Xalapa, 91016, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:28:42-05:00",
+            "Id": "aa2e9873-8a54-41bf-adf1-a358d611f523",
+            "Description": "ECO-359",
+            "UnitId": "1211398",
+            "Position": [-96.90561,
+                19.51234
+            ],
+            "Location": "Taller - Limpia Publica"
+        },
+        {
+            "LocalTimestamp": "2016-04-11T18:51:38-05:00",
+            "Id": "ab1609e1-50f0-4a54-86fe-d296c28a4bb6",
+            "Description": "ECO-360",
+            "UnitId": "1211297",
+            "Position": [-96.90075,
+                19.57056
+            ],
+            "Location": "0.9Km SW of Relleno Sanitario - Xalapa - 124 Camino Antiguo a Naolinco, 2 de Julio, Xalapa Enríquez, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:01:42-05:00",
+            "Id": "8308e505-91b4-4289-b3e0-b58c75c8b7cb",
+            "Description": "ECO-381",
+            "UnitId": "1211282",
+            "Position": [-98.28815,
+                19.02678
+            ],
+            "Location": "133 Carretera Izúcar de Matamoros, San Bernardino Tlaxcalancingo, Tlaxcalancingo, San Andrés Cholula, 72821, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:35:59-05:00",
+            "Id": "bdedd335-b9db-4a78-bdd0-5e224b4eb03e",
+            "Description": "ECO-382",
+            "UnitId": "1211312",
+            "Position": [-96.92818,
+                19.56366
+            ],
+            "Location": "Independencia, La Lagunilla, Xalapa Enríquez Centro, Xalapa, 91119, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:33:51-05:00",
+            "Id": "413208e3-4b1f-4a8e-9962-fda5abbf79d4",
+            "Description": "ECO-437",
+            "UnitId": "1211394",
+            "Position": [-96.9072,
+                19.56812
+            ],
+            "Location": "301 Las Flores, Los Prados, Xalapa Enríquez, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:26:03-05:00",
+            "Id": "6aad9479-3b90-44f4-a30b-701cad807d2c",
+            "Description": "ECO-438",
+            "UnitId": "1215571",
+            "Position": [-96.91046,
+                19.54059
+            ],
+            "Location": "90A Calle Gobernador Jorge Serdán Sur, El Mirador, Xalapa Enríquez, Xalapa, 91170, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:15-05:00",
+            "Id": "cdcf5791-76b5-4aeb-93f3-7f30d945ec89",
+            "Description": "ECO-439",
+            "UnitId": "1215602",
+            "Position": [-96.91169,
+                19.51607
+            ],
+            "Location": "184 Enrique C. Rébsamen, Martires de Chicago, Xalapa Enríquez, Xalapa, 91090, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:20:58-05:00",
+            "Id": "4a824010-2272-448a-b975-c377a280b713",
+            "Description": "ECO-440",
+            "UnitId": "1215597",
+            "Position": [-96.94077,
+                19.52888
+            ],
+            "Location": "125 Hortensia, Estibadores, Xalapa Enríquez, Xalapa, 91050, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:12:14-05:00",
+            "Id": "89ea8b33-b4da-437b-8a75-94a7f61fff1e",
+            "Description": "ECO-441",
+            "UnitId": "1215600",
+            "Position": [-96.91703,
+                19.56666
+            ],
+            "Location": "8 Fray Bartolomé de Las Casas, Revolucion, Xalapa Enríquez, Xalapa, 91100, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:00:15-05:00",
+            "Id": "d98c3cda-3f81-4056-bedd-1f7f89c13150",
+            "Description": "ECO-442",
+            "UnitId": "1215582",
+            "Position": [-96.90327,
+                19.57139
+            ],
+            "Location": "1.1Km W of Relleno Sanitario - Xalapa - 22 Avenida Ramón López Velarde, Jose Vasconcelos, Xalapa Enríquez Centro, Xalapa, 91158, México"
+        },
+        {
+            "LocalTimestamp": "2016-12-05T17:36:38-05:00",
+            "Id": "59389fd0-8b9f-4609-9efe-4f95397a4c1d",
+            "Description": "ECO-50",
+            "UnitId": "1211420",
+            "Position": [-96.91047,
+                19.51496
+            ],
+            "Location": "229-230 Enrique C. Rébsamen, Martires de Chicago, Xalapa Enríquez Centro, Xalapa, 91090, México"
+        }
+    ],
+    "HasMoreResults": false
+}

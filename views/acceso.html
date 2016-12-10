@@ -1,0 +1,27 @@
+$def with(result)
+<table class="table">
+    <th>Nombre</th>
+    <th>No_Hab</th>
+    <th>Ver</th>
+    <th>Modificar</th>
+    <th>Eliminar</th>
+    $for row in result:
+    <tr>
+        <td>$row.Nombre</td>
+        <td>$row.No_Hab</td>
+        <td>
+            <a href="/ver/$row.id"><input id="botonVer" type="submit" value="Ver" /></a>
+        </td>
+        <td>
+            <a href="/editar/$row.id"><input id="botonVer" type="submit" value="Editar" /></a>
+        </td>
+        <td>
+            <a href="/eliminar/$row.id"><input id="botonEliminar" type="submit" value="Eliminar" /></a>
+        </td>
+    </tr>
+</table>
+<br>
+<form name="main" method="post" class="form">
+    <input id="botonNuevo" type="submit" value="Nuevo" />
+</form>
+<iframe width="100%" height="520" frameborder="0" src="https://ricardo3496.carto.com/viz/cf75145c-bd68-11e6-a4b5-0e3a376473ab/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
