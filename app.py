@@ -4,7 +4,7 @@ import json
 from data import data
 from web import form
 
-db = web.database(dbn='mysql', db='mydb', user='root', pw='root')
+db = web.database(dbn='mysql', host='sulnwdk5uwjw1r2k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',db='lv1d2lql2te74nuy', user='pnelyj043j0nuiz0', pw='weehdbnsb4uvdvf9')
 render = web.template.render('views/', base = 'base')
 
 urls=(
@@ -44,7 +44,7 @@ class login:
         if not form.validates():
             return render.Login(form)
         else:
-            result = db.select('usuarios')
+            result = db.select('Usuarios')
             dbUser=""
             dbPassw=""
             for row in result:
@@ -57,7 +57,7 @@ class login:
 
 class acceso:
     def GET(self):
-        result=db.select('comunidad')
+        result=db.select('Comunidad')
         return render.acceso(result)
     def POST(self):
         raise web.seeother("/nuevo")
@@ -70,7 +70,7 @@ class nuevo:
         if not formNew.validates():
             return render.nuevo(formNew)
         else:
-            db.insert('comunidad',
+            db.insert('Comunidad',
             Nombre=formNew.d.Nombre, 
             No_Hab=formNew.d.No,
             Longitud=formNew.d.Longitud,
@@ -93,7 +93,7 @@ class editar:
         if not  formEdit.validates():
             return render.editar(formEdit)
         else:
-            db.update('comunidad',where="id=%s"%(id),
+            db.update('Comunidad',where="id=%s"%(id),
             Nombre=formEdit.d.Nombre,
             No_Hab=formEdit.d.No,
             Longitud = formEdit.d.Longitud,
@@ -103,7 +103,7 @@ class editar:
 class eliminar:
     def GET(self,id):
         formEdit=myformComunidad()
-        result=db.select('comunidad', where= "id=%s"%(id))
+        result=db.select('Comunidad', where= "id=%s"%(id))
 
         for row in result:
             formEdit['Nombre'].value=row.Nombre
@@ -117,11 +117,11 @@ class eliminar:
         if not formEdit.validates():
             return render.eliminar(formEdit)
         else:
-            db.delete('comunidad', where="id=%s"%(id))
+            db.delete('Comunidad', where="id=%s"%(id))
             raise web.seeother("/acceso")
 class ver:
     def GET(self,id):
-        result=db.select('comunidad', where="id=%s"%(id))
+        result=db.select('Comunidad', where="id=%s"%(id))
         return render.ver(result)
 
 
